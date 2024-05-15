@@ -34,7 +34,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #1abc9c;
+  --bs-primary: rgb(26, 188, 156);
   --bs-secondary: #2c3e50;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -494,6 +494,7 @@ progress {
 .lead-2 {
   font-size: 1.5rem;
   font-weight: 400;
+  text-align: justify;
 }
 
 .display-1 {
@@ -10979,6 +10980,11 @@ html {
 .masthead {
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
+  background:  url(/assets/img/pexels-jopwell-24222.jpg)rgba(44, 62, 80, 0.90);
+  background-position: center 90px;
+  background-blend-mode: multiply;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .masthead .masthead-heading {
   font-size: 2.75rem;
