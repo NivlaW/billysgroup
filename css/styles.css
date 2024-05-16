@@ -11032,7 +11032,10 @@ html {
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
   font-size: 1.5rem;
 }
-
+.card-material{
+  /* background-color: var(--bs-indigo); */
+  height: 15rem;
+}
 .portfolio-modal .btn-close {
   color: #1abc9c;
   font-size: 2rem;
