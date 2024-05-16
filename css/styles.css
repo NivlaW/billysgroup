@@ -10980,7 +10980,7 @@ html {
 .masthead {
   padding-top: calc(6rem + 74px);
   padding-bottom: 6rem;
-  background:  url(/assets/img/pexels-jopwell-24222.jpg)rgba(44, 62, 80, 0.90);
+  background:  url(../assets/img/pexels-jopwell-24222.jpg)rgba(44, 62, 80, 0.90);
   background-position: center 90px;
   background-blend-mode: multiply;
   background-repeat: no-repeat;
